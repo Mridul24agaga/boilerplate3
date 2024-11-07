@@ -14,7 +14,7 @@ export const perks = [
     {
         icon: Icons.launch,
         title: "Launch",
-        info: "Publish your website and share it with the world.",
+        info: "Publish your website and share it with the worldd.",
     },
 ];
 
