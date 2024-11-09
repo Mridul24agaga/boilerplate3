@@ -3,18 +3,18 @@ import { Icons } from "@/components";
 export const perks = [
     {
         icon: Icons.auth,
-        title: "Sign Up",
-        info: "Create your free account to get started with NextBoilerplate.",
+        title: "Define Goals",
+        info: "Clarify your audience and solve a real problem.",
     },
     {
         icon: Icons.customize,
-        title: "Customize",
-        info: "Choose a template and customize it to fit your needs.",
+        title: "Plan Features",
+        info: "Prioritize essential tools for user success.",
     },
     {
         icon: Icons.launch,
-        title: "Launch",
-        info: "Publish your website and share it with the worldd.",
+        title: "Build & Launch",
+        info: "Develop, test, and release your solution.",
     },
 ];
 
@@ -41,8 +41,8 @@ export const features = [
     },
     {
         icon: Icons.shop,
-        title: "E-Commerce Ready",
-        info: "Start selling online with our e-commerce features and integrations.",
+        title: "AI Ready",
+        info: "Leverage pre-made AI Tools and Start your Own SAAS Today",
     },
     {
         icon: Icons.server,
@@ -69,7 +69,7 @@ export const pricingCards = [
         duration: "month",
         highlight: "Key features",
         buttonText: "Upgrade to Pro",
-        features: ["Unlimited projects", "5 Team members", "Advanced design tools", "Customizable domain"],
+        features: ["Unlimited projects", "5 Team members", "Advanced AI tools Code", "Customizable domain"],
         priceId: "price_1OYxkqFj9oKEERu1KfJGWxgN",
     },
     {
